@@ -1,6 +1,6 @@
 ## Olá! Eu sou o José Pedro C S Machado
 <div align="center">
-  <a href="https://github.com/loucodeleona">
+  <a href="https://github.com/dropemachado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loucodeleona&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loucodeleona&layout=compact&langs_count=7&theme=dark"/>
 </div>
