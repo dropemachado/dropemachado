@@ -11,6 +11,6 @@
   <img align="right"  height="220" width="280" src="https://data.whicdn.com/images/198594231/original.gif">
  
 - 🌱 Desenvolvedor Full‑Stack em formação • JavaScript, React, Node.js • Python • 📍São Paulo
-- 📫 Você pode me encontrar em > pedrinho11@gmail.com
+- 📫 Você pode me encontrar em > pedrinho11@gmail.com ou https://www.linkedin.com/in/josepedrocsm/
 - 😄 Pronomes: Ele/Dele
 
