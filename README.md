@@ -10,7 +10,7 @@
   <img align="center" alt="drope-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right"  height="220" width="280" src="https://data.whicdn.com/images/198594231/original.gif">
  
-- 🌱 Estudando na Cubos Academy
+- 🌱 Desenvolvedor Full‑Stack em formação • JavaScript, React, Node.js • Python • 📍São Paulo
 - 📫 Você pode me encontrar em > pedrinho11@gmail.com
 - 😄 Pronomes: Ele/Dele
 
